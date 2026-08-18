@@ -1,0 +1,9 @@
+{
+  "name": "broken-node-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fixture: a broken add() that must be fixed under src/.",
+  "scripts": {
+    "test": "node --test test/math.test.js"
+  }
+}
